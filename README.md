@@ -1,5 +1,5 @@
 # PongPCB
-This is a KiCad project and Gerber files for Pong Composite Video replacement PCB, as fetured in the original [Dave's Garage episode](https://youtu.be/iF7lo0vU_WI).
+This is a KiCad project and Gerber files for Pong Composite Video replacement PCB, as featured in the original [Dave's Garage episode](https://youtu.be/iF7lo0vU_WI).
 
 [![How PONG Works: From Schematic to PCB to Console](http://i3.ytimg.com/vi/iF7lo0vU_WI/hqdefault.jpg)](https://youtu.be/iF7lo0vU_WI)
 
